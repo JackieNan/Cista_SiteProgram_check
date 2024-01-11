@@ -1,0 +1,10 @@
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\obj\Debug\siteprogramcheck.csproj.AssemblyReference.cache
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\obj\Debug\siteprogramcheck.Form1.resources
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\obj\Debug\siteprogramcheck.Properties.Resources.resources
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\obj\Debug\siteprogramcheck.csproj.GenerateResource.cache
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\obj\Debug\siteprogramcheck.csproj.CoreCompileInputs.cache
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\bin\Debug\siteprogramcheck.exe.config
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\bin\Debug\siteprogramcheck.exe
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\bin\Debug\siteprogramcheck.pdb
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\obj\Debug\siteprogramcheck.exe
+C:\workspace\C#WorkSpace\siteprogramcheck\siteprogramcheck\obj\Debug\siteprogramcheck.pdb
